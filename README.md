@@ -1,8 +1,8 @@
-# ML-PROJECT-TITANIC
+# ML-PROJECT-TITANIC- SOUMYO NATH TRIPATHY
 # Contents of the Notebook
 The notebook contains code,roughly, under the following points -
 
-Introduction to the Problem
+# Introduction to the Problem
 Looking at the data at a glance
 Filling in missing values of the dataset
 Outlier Handling
@@ -13,9 +13,9 @@ Model Creation using RandomForestClassifier
 About the classifier
 Mainly, for the Classifier, I have used K-Fold cross validation on the training set and using RandomForestClassifier, I got the least difference between the accuracy and the cross validation score.
 
-Improvements
+# Improvements
 I haven't tried hyperparameter tuning on this model, neither have I tried Stacking. Using these might improve the accuracy.
 
-My Favourite part
+# My Favourite part
 My favourite part about the notebook would be the Exploratory Data Analysis part, where I used seaborn and matplotlib to plot a lot of different graphs to draw various insights from the dataset.
 
